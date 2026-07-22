@@ -389,7 +389,7 @@ work together to create something meaningful.
 
 # 🎯 Motto
 
-> **Learn. Build. Improve. Repeat.**
+> **Building the Future with AI, Data Science, and Animation.**
 
 ---
 
