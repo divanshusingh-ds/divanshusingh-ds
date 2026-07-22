@@ -60,7 +60,7 @@ the intersection of Artificial Intelligence, Data Science, and Animation.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divanshusingh-ds/divanshusingh-ds/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/divanshusingh-ds/divanshusingh-ds/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ## 🛠️ Tech Stack
 
