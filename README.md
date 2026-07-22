@@ -57,7 +57,11 @@ the intersection of Artificial Intelligence, Data Science, and Animation.
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=divanshusingh-ds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divanshusingh-ds/divanshusingh-ds/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ## 🛠️ Tech Stack
 
 ### Programming
