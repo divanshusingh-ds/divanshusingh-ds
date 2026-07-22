@@ -189,35 +189,75 @@ I believe the future belongs to creators who can combine **technology with imagi
 </p>
 ---
 
+---
+
 # 🚀 Featured Projects
 
-<p align="center">
+## 🎬 Movie Studio Analytics
 
-<a href="https://github.com/divanshusingh-ds/movie-studio-analytics-sql-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=movie-studio-analytics-sql-python&theme=tokyonight&hide_border=true"/>
-</a>
+**Tech Stack:** SQL • Python • Pandas • Power BI
 
-<a href="https://github.com/divanshusingh-ds/fifa-world-cup-2026-python-analysis-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=fifa-world-cup-2026-python-analysis-&theme=tokyonight&hide_border=true"/>
-</a>
+An end-to-end movie analytics project that explores movie performance, business insights, and data visualization.
 
-<a href="https://github.com/divanshusingh-ds/NETFLIX-PYTHON-PROJECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=NETFLIX-PYTHON-PROJECT&theme=tokyonight&hide_border=true"/>
-</a>
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/movie-studio-analytics-sql-python
 
-<a href="https://github.com/divanshusingh-ds/Netflix-PowerBI-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=Netflix-PowerBI-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-<a href="https://github.com/divanshusingh-ds/disney-dashboard-excel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=disney-dashboard-excel&theme=tokyonight&hide_border=true"/>
-</a>
+## ⚽ FIFA World Cup 2026 Python Analysis
 
-<a href="https://github.com/divanshusingh-ds/imdb-sql-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshusingh-ds&repo=imdb-sql-analysis&theme=tokyonight&hide_border=true"/>
-</a>
+**Tech Stack:** Python • Pandas • Matplotlib • Seaborn
 
-</p>
+Data analysis and visualization project exploring FIFA World Cup statistics and trends.
+
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/fifa-world-cup-2026-python-analysis-
+
+---
+
+## 📺 Netflix Python Analysis
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+Exploratory Data Analysis on Netflix Movies & TV Shows using Python.
+
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/NETFLIX-PYTHON-PROJECT
+
+---
+
+## 📊 Netflix Power BI Dashboard
+
+**Tech Stack:** Power BI • DAX • Data Visualization
+
+Interactive dashboard showing Netflix content insights and KPIs.
+
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/Netflix-PowerBI-Dashboard
+
+---
+
+## 🎥 Disney Dashboard (Excel)
+
+**Tech Stack:** Excel • Pivot Tables • Charts • Dashboard
+
+Interactive Excel dashboard built for Disney content analysis.
+
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/disney-dashboard-excel
+
+---
+
+## 🎞 IMDb SQL Analysis
+
+**Tech Stack:** SQL • MySQL • Data Analysis
+
+SQL-based project analyzing IMDb movie ratings, genres, and trends.
+
+🔗 **Repository:**  
+https://github.com/divanshusingh-ds/imdb-sql-analysis
+
+---
 
 ---
 ---
