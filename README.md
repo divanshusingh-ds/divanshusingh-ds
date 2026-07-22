@@ -23,3 +23,43 @@ Data Science Enthusiast • Python Developer • Future Machine Learning Enginee
 </p>
 
 ---
+---
+
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👋 Hello!
+
+I'm **Divanshu Singh**, a passionate **Data Science Enthusiast** who loves turning raw data into meaningful insights.
+
+I enjoy building projects using **Python, SQL, Machine Learning, Power BI**, and I'm also deeply interested in **Animation** and **Creative Technology**.
+
+### 🌱 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Visualization
+- 🐍 Advanced Python
+- 🗄 SQL Optimization
+- 📈 Power BI Dashboard Design
+
+### 🎯 My Goal
+
+To build innovative products that combine
+
+- Artificial Intelligence
+- Data Science
+- Analytics
+- Animation
+- Creativity
+
+creating experiences that are both intelligent and visually engaging.
+
+---
+
+## 💡 Personal Quote
+
+> **"When skill, knowledge, and vision meet no open door, build your own — and the ones who once wanted to walk with you will finally get their chance."**
+>
+> **— Divanshu Singh**
