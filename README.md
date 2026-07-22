@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Divanshu+Singh;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;Passionate+About+Animation+%26+AI" />
 </p>
 <h1 align="center">Hi 👋, I'm Divanshu Singh</h1>
