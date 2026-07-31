@@ -1,459 +1,212 @@
+<!-- BANNER SECTION -->
 <p align="center">
   <img src="./banner.png" alt="Divanshu Singh Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Divanshu Singh</h1>
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Divanshu+Singh;Data+Science+Enthusiast;Future+ML+Engineer;Creative+Technologist" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">
-Data Science Enthusiast • Python Developer • Future Machine Learning Engineer
-</h3>
-
+<!-- SUBTITLE -->
 <p align="center">
-🎬 Passionate about Animation & Creative Technology • 📊 Turning Data into Insights
+  <img src="https://img.shields.io/badge/Data_Scientist-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML_Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Animation_Enthusiast-FF0000?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF3B3B&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;AI+%7C+Analytics+%7C+Animation" alt="Typing SVG" />
-</p>
-
+<!-- PROFILE VIEWS -->
 <p align="center">
   <a href="https://github.com/divanshusingh-ds">
-    <img src="https://komarev.com/ghpvc/?username=divanshusingh-ds&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=divanshusingh-ds&label=👁️+Profile+Views&color=red&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/divanshusingh-ds?tab=followers">
+    <img src="https://img.shields.io/github/followers/divanshusingh-ds?style=for-the-badge&logo=github&color=red" alt="Followers"/>
+  </a>
+  <a href="https://github.com/divanshusingh-ds?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-15+-red?style=for-the-badge&logo=github" alt="Projects"/>
   </a>
 </p>
 
 ---
----
 
-# 🚀 About Me
+## 🎯 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
-Hi! I'm **Divanshu Singh**, a passionate **Data Science Enthusiast**, **Python Developer**, and aspiring **Machine Learning Engineer** with a creative vision beyond technology.
+### 👨‍💻 Who I Am
 
-I love transforming raw data into meaningful insights while exploring the exciting intersection of **Artificial Intelligence, Data Science, Animation, and Creative Technology.**
+I'm **Divanshu Singh** — a passionate **Data Science Enthusiast**, **Python Developer**, and aspiring **Machine Learning Engineer**.
 
-Whether I'm building dashboards, writing Python code, analyzing datasets, or imagining the next generation of animated experiences, I enjoy turning ideas into reality.
+> 🎯 Turning **Data into Insights** • Creativity into **Innovation**
 
----
+### 💡 What Drives Me
 
-## 🌱 Currently Learning
+- 🤖 Building AI-powered solutions
+- 📊 Uncovering hidden patterns in data
+- 🎬 Exploring Animation & Creative Tech
+- 🚀 Combining tech with imagination
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Visualization
-- 🐍 Advanced Python
-- 🗄 SQL & Database Optimization
-- 📈 Power BI
+### 🎯 Current Mission
 
----
+Building projects where **AI, Data Science & Animation** converge to create experiences that educate and inspire millions.
 
-## 🎬 Passion for Animation
+</td>
+<td width="40%" align="center">
 
-Animation has always been one of my biggest passions.
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Coding Animation"/>
 
-I'm fascinated by storytelling, world-building, character design, visual effects, and the technology behind animated films.
-
-My long-term vision is to combine **AI, Data Science, and Animation** to create innovative experiences that inspire millions of people.
-
----
-
-## 🎯 Career Vision
-
-My goal is to build products where
-
-- 📊 Data drives decisions
-- 🤖 AI solves real-world problems
-- 🎬 Animation tells unforgettable stories
-- 🚀 Creativity meets technology
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Personal Quote
+## 🛠️ Technical Arsenal
 
-> **"When skill, knowledge, and vision meet no open door, build your own — and the ones who once wanted to walk with you will finally get their chance."**
->
-> **— Divanshu Singh**
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
-
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=2C3E50"/>
 </p>
 
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+### 📊 Data Science Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=2C3E50"/>
 </p>
 
----
+### 📈 Visualization Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=2C3E50"/>
+</p>
 
-## 📚 Data Science
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
+### 🧰 Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=2C3E50"/>
 </p>
 
 ---
 
-## 📊 Visualization
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Studio Analytics
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/movie-studio-analytics-sql-python)
+
+**SQL • Python • Pandas • Power BI**
+
+End-to-end analytics exploring movie performance & business insights.
+
+</td>
+<td width="50%">
+
+### ⚽ FIFA World Cup 2026 Analysis
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/fifa-world-cup-2026-python-analysis-)
+
+**Python • Pandas • Matplotlib • Seaborn**
+
+Statistical analysis & visualization of FIFA World Cup trends.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📺 Netflix EDA
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/NETFLIX-PYTHON-PROJECT)
+
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
+
+Exploratory Data Analysis on Netflix Movies & TV Shows.
+
+</td>
+<td width="50%">
+
+### 📊 Netflix Power BI Dashboard
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/Netflix-PowerBI-Dashboard)
+
+**Power BI • DAX • Data Visualization**
+
+Interactive dashboard with Netflix content insights & KPIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎥 Disney Dashboard (Excel)
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/disney-dashboard-excel)
+
+**Excel • Pivot Tables • Charts**
+
+Interactive dashboard for Disney content analysis.
+
+</td>
+<td width="50%">
+
+### 🎞 IMDb SQL Analysis
+[![Repo](https://img.shields.io/badge/📊-View_Repo-red?style=flat-square)](https://github.com/divanshusingh-ds/imdb-sql-analysis)
+
+**SQL • MySQL**
+
+Analyzing IMDb movie ratings, genres, and trends.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
-## ⚙ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" />
-
-</p>
-# 🎬 Beyond Data Science
-
-Most people know me as a Data Science enthusiast.
-
-But beyond datasets and machine learning, I have a deep passion for **Animation, Storytelling, and Creative Technology.**
-
-I believe the future belongs to creators who can combine **technology with imagination**, and that's the journey I'm building every day.
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=divanshusingh-ds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divanshusingh-ds&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=divanshusingh-ds&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divanshusingh-ds&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=divanshusingh-ds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/divanshusingh-ds/divanshusingh-ds/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
----
-
----
-
-# 🚀 Featured Projects
-
-## 🎬 Movie Studio Analytics
-
-**Tech Stack:** SQL • Python • Pandas • Power BI
-
-An end-to-end movie analytics project that explores movie performance, business insights, and data visualization.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/movie-studio-analytics-sql-python
-
----
-
-## ⚽ FIFA World Cup 2026 Python Analysis
-
-**Tech Stack:** Python • Pandas • Matplotlib • Seaborn
-
-Data analysis and visualization project exploring FIFA World Cup statistics and trends.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/fifa-world-cup-2026-python-analysis-
-
----
-
-## 📺 Netflix Python Analysis
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
-Exploratory Data Analysis on Netflix Movies & TV Shows using Python.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/NETFLIX-PYTHON-PROJECT
-
----
-
-## 📊 Netflix Power BI Dashboard
-
-**Tech Stack:** Power BI • DAX • Data Visualization
-
-Interactive dashboard showing Netflix content insights and KPIs.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/Netflix-PowerBI-Dashboard
-
----
-
-## 🎥 Disney Dashboard (Excel)
-
-**Tech Stack:** Excel • Pivot Tables • Charts • Dashboard
-
-Interactive Excel dashboard built for Disney content analysis.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/disney-dashboard-excel
-
----
-
-## 🎞 IMDb SQL Analysis
-
-**Tech Stack:** SQL • MySQL • Data Analysis
-
-SQL-based project analyzing IMDb movie ratings, genres, and trends.
-
-🔗 **Repository:**  
-https://github.com/divanshusingh-ds/imdb-sql-analysis
-
----
-
----
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build 25+ High-Quality Data Science Projects
-- 🤖 Master Machine Learning & Deep Learning
-- 📊 Create Interactive Dashboards with Power BI
-- 🐍 Become an Advanced Python Developer
-- 🎬 Learn Animation & Creative Technology
-- 🌍 Contribute to Open Source Projects
-- 💼 Land a Data Science / Machine Learning Role
-- 🎨 Combine AI, Data Science & Animation into innovative products
-
----
-
-# 🏅 Achievements
-
-✔ Data Science Projects
-
-✔ SQL Analytics Projects
-
-✔ Python Automation & Analysis
-
-✔ Power BI Dashboards
-
-✔ Excel Dashboards
-
-✔ Git & GitHub Portfolio
-
-✔ Continuous Learning in AI & Machine Learning
-
----
-
-# 💼 Areas of Interest
-
-- 📊 Data Science
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📈 Business Intelligence
-- 🎬 Animation
-- 🎮 Creative Technology
-- 💡 Innovation
-- 🚀 Product Development
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/divanshu-singh925">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:singhdivanshu455@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://singhdivanshu455-star.github.io/my-project/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Personal Quote
-
-> **"When skill, knowledge, and vision meet no open door, build your own — and the ones who once wanted to walk with you will finally get their chance."**
-
-<p align="right">
-<b>— Divanshu Singh</b>
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- 🎬 Animation enthusiast
-- 📊 Love discovering insights from data
-- 🧩 Enjoy solving analytical problems
-- 🚀 Always learning something new
-- 💻 Turning ideas into real-world projects
-
----
-
-<h2 align="center">
-
-⭐ Thanks for Visiting My GitHub Profile ⭐
-
-</h2>
-
-<p align="center">
-
-<b>Turning Data into Insights • Creativity into Innovation • Ideas into Reality</b>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=divanshusingh-ds&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divanshusingh-ds&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-
-If you like my work, don't forget to ⭐ my repositories!
-
+  <img src="https://streak-stats.demolab.com?user=divanshusingh-ds&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
----
-
-# 🌟 Current Focus
-
-```text
-📊 Data Science          ███████████░░░ 85%
-🐍 Python                ███████████░░░ 85%
-🗄 SQL                   ████████████░░ 90%
-📈 Power BI              ██████████░░░░ 80%
-🤖 Machine Learning      ███████░░░░░░░ 60%
-🧠 Deep Learning         █████░░░░░░░░░ 45%
-🎬 Animation             ████████░░░░░░ 65%
-```
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🎬 Animation Technology
-- 📊 Business Intelligence
-- 🏗 Data Engineering Basics
-
----
-
-# 💖 Support My Work
-
-If you enjoy my projects, consider giving a ⭐ to my repositories.
-
-Every star motivates me to build better projects and learn something new.
-
----
-
-# 💻 Favorite Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divanshusingh-ds&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-# 🌍 My Vision
-
-I believe technology is not just about writing code.
-
-It's about solving problems, creating experiences, and inspiring people.
-
-My dream is to build products where
-
-🤖 Artificial Intelligence
-
-📊 Data Science
-
-🎬 Animation
-
-🚀 Creativity
-
-work together to create something meaningful.
-
----
-
-# 🎯 Motto
-
-> **Building the Future with AI, Data Science, and Animation.**
-
----
-
-<h2 align="center">
-
-⭐ Thank You for Visiting ⭐
-
-</h2>
-
-<h3 align="center">
-
-Let's Build the Future Together 🚀
-
-</h3>
+## 🏆 Achievements & Trophies
 
 <p align="center">
-
-Made with ❤️ by <b>Divanshu Singh</b>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=divanshusingh-ds&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
 </p>
-# 🌠 My Dream
 
-I'm not only passionate about Data Science.
+---
 
-I'm also deeply interested in Animation, Storytelling and Creative Technology.
+## 🎯 2026 Roadmap
 
-My long-term vision is to combine Artificial Intelligence, Data Science and Animation to create innovative experiences that educate, entertain and inspire people around the world.
+```mermaid
+timeline
+    title 2026 Goals
+    Q1 : Master Advanced Python
+        : 10+ Data Science Projects
+    Q2 : Machine Learning Expertise
+        : Deep Learning Basics
+    Q3 : Animation & Creative Tech
+        : Open Source Contributions
+    Q4 : Land ML/DS Role
+        : Launch AI+Animation Product
